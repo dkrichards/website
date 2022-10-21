@@ -1,0 +1,24 @@
+---
+title: "Dylan K Richards, PhD"
+about:
+  template: jolla
+  image: headshot_dylan.jpg
+  links: 
+    - icon: envelope
+      text: Email
+      href: mailto:dkrichards@unm.edu
+    - icon: person-fill
+      text: CASAA
+      href: https://casaa.unm.edu/drichards.html
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=b6pz5ogAAAAJ&hl=en
+    - icon: globe
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Dylan-Richards-5
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/DylanKRichards
+---
+
+I'm a postdoc at the [Center on Alcohol, Substance use, And Addictions (CASAA)](https://casaa.unm.edu/) at the [University of New Mexico](http://www.unm.edu/) supported by a [fellowship (F32)](https://reporter.nih.gov/search/yvxjHjGicUK1aVnDHo7z3w/project-details/10460643) from the [National Institute on Alcohol Abuse and Alcoholism](https://www.niaaa.nih.gov/). My research examines what motivates people to drink alcohol and use other drugs (mostly cannabis) more safely. The goal of my research is to alleviate suffering that hazardous alcohol and other drug use contributes to by informing intervention. Prior to joining CASAA, I received my PhD in health psychology (2020) from the [University of Texas at El Paso](https://utep.edu/) and BS in psychology (2014) from [George Mason University](https://www.gmu.edu/).

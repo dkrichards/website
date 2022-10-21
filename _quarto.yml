@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Dylan Richards"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: CV_Richards_Oct22_Website.pdf
+        text: CV
+      - href: publications.qmd
+        text: Publications
+      - href: presentations.qmd
+        text: Presentations
+      - href: projects.qmd
+        text: Projects
+google-analytics: G-G86RXVB6QS
+
+format:
+  html:
+    theme: sandstone
+    linkcolor: blue
+    css: styles.css
+    toc: true
+
+editor: visual
+

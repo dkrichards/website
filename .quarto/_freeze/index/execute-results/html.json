@@ -1,0 +1,14 @@
+{
+  "hash": "492d462791770f48875b11b333c8d68b",
+  "result": {
+    "markdown": "---\ntitle: \"Dylan K Richards, PhD\"\nabout:\n  template: jolla\n  image: headshot_dylan.jpg\n  links: \n    - icon: mortarboard-fill\n      href: https://scholar.google.com/citations?user=b6pz5ogAAAAJ&hl=en\n    - text: ResearchGate\n      href: https://www.researchgate.net/profile/Dylan-Richards-5\n    - text: CASAA\n      href: https://casaa.unm.edu/drichards.html\n    - icon: twitter\n      href: https://twitter.com/DylanKRichards\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
