@@ -1,5 +1,5 @@
 ---
-title: "Dylan K Richards, PhD"
+title: "Dylan K. Richards, Ph.D."
 about:
   template: jolla
   image: headshot_dylan.jpg
@@ -21,4 +21,4 @@ about:
       href: https://twitter.com/DylanKRichards
 ---
 
-I'm a postdoc at the [Center on Alcohol, Substance use, And Addictions (CASAA)](https://casaa.unm.edu/) at the [University of New Mexico](http://www.unm.edu/) supported by a [fellowship (F32)](https://reporter.nih.gov/search/yvxjHjGicUK1aVnDHo7z3w/project-details/10460643) from the [National Institute on Alcohol Abuse and Alcoholism](https://www.niaaa.nih.gov/). My research examines what motivates people to drink alcohol and use other drugs (mostly cannabis) more safely. The goal of my research is to alleviate suffering that hazardous alcohol and other drug use contributes to by informing intervention. Prior to joining CASAA, I received my PhD in health psychology (2020) from the [University of Texas at El Paso](https://utep.edu/) and BS in psychology (2014) from [George Mason University](https://www.gmu.edu/).
+I am a postdoctoral fellow at the [Center on Alcohol, Substance use, And Addictions (CASAA)](https://casaa.unm.edu/) at the [University of New Mexico](http://www.unm.edu/) supported by an individual training grant ([F32](https://reporter.nih.gov/search/yvxjHjGicUK1aVnDHo7z3w/project-details/10460643)) from the [National Institute on Alcohol Abuse and Alcoholism](https://www.niaaa.nih.gov/). My research examines the motivational processes underlying engagement and change in harm reduction behaviors for alcohol, cannabis, and other drugs. The goal of my research is to inform intervention to alleviate suffering due to hazardous substance use. Prior to joining CASAA, I received my Ph.D. in health psychology (2020) from the [University of Texas at El Paso](https://utep.edu/) and B.S. in psychology (2014) from [George Mason University](https://www.gmu.edu/).
