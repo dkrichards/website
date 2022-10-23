@@ -15,7 +15,7 @@ website:
         text: Presentations
       - href: projects.qmd
         text: Projects
-google-analytics: G-G86RXVB6QS
+  google-analytics: "G-G86RXVB6QS"
 
 format:
   html:
